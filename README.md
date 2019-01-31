@@ -24,7 +24,14 @@ Users will be able to:
 The frontend design through React Native is at about 80%, and the integration to backend using AWS AppSync and GraphQL is happening concurrently and is sitting at about 40%. We plan to finish development by April 2019, and deploy the final product by June 2019 after thorough QA and testing processes are complete.
 
 ### Screens
+#### Sign Up and Ladder Dashboard
 
+<p align="center">
+  <img src="demoScreen1.jpg" width="100" />
+  <img src="demoScreen2.jpg" width="100" /> 
+</p>
 
+### Wireframe
+#### Ladder News and Available Challenges
 
 
