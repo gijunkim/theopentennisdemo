@@ -27,11 +27,16 @@ The frontend design through React Native is at about 80%, and the integration to
 #### Sign Up and Ladder Dashboard
 
 <p align="center">
-  <img src="demoScreen1.JPG" width="200" />
-  <img src="demoScreen2.JPG" width="200" /> 
+  <img src="demoScreen1.JPG" width="250" />
+  <img src="demoScreen2.JPG" width="250" /> 
 </p>
 
 ### Wireframe
 #### Ladder News and Available Challenges
+
+<p align="center">
+  <img src="wireframe1.JPG" width="250" />
+  <img src="wireframe2.JPG" width="250" /> 
+</p>
 
 
