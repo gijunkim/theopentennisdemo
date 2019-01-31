@@ -1,0 +1,4 @@
+#Mon Jan 28 20:59:22 EST 2019
+base.0=C\:\\Users\\Junie\\Documents\\theopentennis\\TheOpenTennisFrontEnd\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

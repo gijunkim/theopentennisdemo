@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "theopentennis-20190109204239-authRole",
+            "UnauthRoleArn": "arn:aws:iam::945277137947:role/theopentennis-20190109204239-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::945277137947:role/theopentennis-20190109204239-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "theopentennis-20190109204239-deployment",
+            "UnauthRoleName": "theopentennis-20190109204239-unauthRole",
+            "StackName": "theopentennis-20190109204239",
+            "StackId": "arn:aws:cloudformation:us-east-2:945277137947:stack/theopentennis-20190109204239/039fe680-1479-11e9-a87b-0aedd1bf2484"
+        }
+    }
+}

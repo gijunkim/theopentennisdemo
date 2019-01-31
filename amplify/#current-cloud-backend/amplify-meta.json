@@ -1,0 +1,25 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "theopentennis-20190109204239-authRole",
+      "UnauthRoleArn": "arn:aws:iam::945277137947:role/theopentennis-20190109204239-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::945277137947:role/theopentennis-20190109204239-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "theopentennis-20190109204239-deployment",
+      "UnauthRoleName": "theopentennis-20190109204239-unauthRole",
+      "StackName": "theopentennis-20190109204239",
+      "StackId": "arn:aws:cloudformation:us-east-2:945277137947:stack/theopentennis-20190109204239/039fe680-1479-11e9-a87b-0aedd1bf2484"
+    }
+  },
+  "api": {
+    "theopentennisapi20190108": {
+      "service": "AppSync",
+      "output": {
+        "securityType": "AMAZON_COGNITO_USER_POOLS",
+        "GraphQLAPIIdOutput": "dwhr5hmt5bgnvjsglgrgprv7qu",
+        "GraphQLAPIEndpointOutput": "https://zz55bhivdfhydmm46r62ja54vy.appsync-api.us-east-2.amazonaws.com/graphql"
+      },
+      "lastPushTimeStamp": "2019-01-10T01:43:31.365Z"
+    }
+  }
+}
