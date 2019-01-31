@@ -6,4 +6,5 @@ The Open Tennis is a Tennis Ladder mobile application that allows users to eithe
 
 With our app, not only users will be given the opportunity to enjoy Tennis like the professional players do, and add a little bit of rivalry and competitiveness to their playing. 
 
+On top of this, Users will be able to report the scores of their matches instantly with their phones, and get notified of various news in the ladders they are part of.
 
